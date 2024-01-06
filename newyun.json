@@ -1,0 +1,14 @@
+{
+"name":"NEWYUN", 
+"description":"新云图标库", 
+"icons":
+[
+
+{"name":"ㅤㅤㅤ1", "url":"https://raw.githubusercontent.com/StoveOnBox/newyun/main/newyun108.png"},
+{"name":"ㅤㅤㅤ2", "url":"https://raw.githubusercontent.com/StoveOnBox/newyun/main/newyun.png"},
+{"name":"ㅤㅤㅤ3", "url":"https://raw.githubusercontent.com/StoveOnBox/newyun/main/NEWYUN-logos_white.png"},
+{"name":"ㅤㅤㅤ4", "url":"https://raw.githubusercontent.com/StoveOnBox/newyun/main/NEWYUN-logos_transparent.png"},
+{"name":"ㅤㅤㅤ5", "url":"https://raw.githubusercontent.com/StoveOnBox/newyun/main/NEWYUN-logos_black.png"},
+
+]
+}
